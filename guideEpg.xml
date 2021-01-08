@@ -1,0 +1,907 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SP: Sky Sports Liga Española HD">
+    <display-name lang="es">"SP: Sky Sports Liga Española HD"</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="SP: Sky Sports Latino HD">
+    <display-name lang="es">"SP: Sky Sports Latino HD"</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="SP: BEIN Sports N HD">
+    <display-name lang="es">"SP: BEIN Sports N HD"</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="SP: ES: M. LaLiga">
+    <display-name lang="es">"SP: ES: M. LaLiga"</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210107010000 -0600" stop="20210107030000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Manchester United vs. Manchester City</title>
+  </programme>
+  <programme start="20210107030000 -0600" stop="20210107050000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20210107050000 -0600" stop="20210107053000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - premier league today</title>
+  </programme>
+  <programme start="20210107053000 -0600" stop="20210107060000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">PLTV-Match of the week</title>
+  </programme>
+  <programme start="20210107060000 -0600" stop="20210107063000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">PLTV-Match of the week</title>
+  </programme>
+  <programme start="20210107063000 -0600" stop="20210107070000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv- netbusters En Vivo</title>
+  </programme>
+  <programme start="20210107070000 -0600" stop="20210107083000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - the kelly &amp; wrighty sh</title>
+  </programme>
+  <programme start="20210107083000 -0600" stop="20210107090000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-the big interview</title>
+  </programme>
+  <programme start="20210107090000 -0600" stop="20210107093000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - premier league today</title>
+  </programme>
+  <programme start="20210107093000 -0600" stop="20210107100000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv- world En Vivo</title>
+  </programme>
+  <programme start="20210107100000 -0600" stop="20210107110000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-fanzone En Vivo</title>
+  </programme>
+  <programme start="20210107110000 -0600" stop="20210107113000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-the catch up show</title>
+  </programme>
+  <programme start="20210107113000 -0600" stop="20210107120000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-the big interview</title>
+  </programme>
+  <programme start="20210107120000 -0600" stop="20210107123000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - premier league today</title>
+  </programme>
+  <programme start="20210107123000 -0600" stop="20210107130000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - match pack En Vivo</title>
+  </programme>
+  <programme start="20210107130000 -0600" stop="20210107133000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv- world En Vivo</title>
+  </programme>
+  <programme start="20210107133000 -0600" stop="20210107140000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv- netbusters En Vivo</title>
+  </programme>
+  <programme start="20210107140000 -0600" stop="20210107160000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">West Bromwich Albion vs. Arsenal Repetición</title>
+  </programme>
+  <programme start="20210107160000 -0600" stop="20210107180000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Brighton vs. Wolverhampton W</title>
+  </programme>
+  <programme start="20210107180000 -0600" stop="20210107200000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Manchester United vs. Aston V</title>
+  </programme>
+  <programme start="20210107200000 -0600" stop="20210107220000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Tottenham Hotspur vs. Brentford Repetición</title>
+  </programme>
+  <programme start="20210107220000 -0600" stop="20210107223000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">PLTV-Soccerbox</title>
+  </programme>
+  <programme start="20210107223000 -0600" stop="20210108000000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Manchester United vs. Manchester City</title>
+  </programme>
+  <programme start="20210108000000 -0600" stop="20210108003000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Manchester United vs. Manchester City</title>
+  </programme>
+  <programme start="20210108003000 -0600" stop="20210108010000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">PLTV-Soccerbox</title>
+  </programme>
+  <programme start="20210108010000 -0600" stop="20210108030000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Everton vs. West Ham United Repetición</title>
+  </programme>
+  <programme start="20210108030000 -0600" stop="20210108050000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20210108050000 -0600" stop="20210108053000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - premier league today</title>
+  </programme>
+  <programme start="20210108053000 -0600" stop="20210108063000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-1-to-11</title>
+  </programme>
+  <programme start="20210108063000 -0600" stop="20210108070000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv- world En Vivo</title>
+  </programme>
+  <programme start="20210108070000 -0600" stop="20210108083000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-the headline makers</title>
+  </programme>
+  <programme start="20210108083000 -0600" stop="20210108090000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv- netbusters En Vivo</title>
+  </programme>
+  <programme start="20210108093000 -0600" stop="20210108100000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-the big interview</title>
+  </programme>
+  <programme start="20210108110000 -0600" stop="20210108113000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - match pack En Vivo</title>
+  </programme>
+  <programme start="20210108113000 -0600" stop="20210108120000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv- world En Vivo</title>
+  </programme>
+  <programme start="20210108123000 -0600" stop="20210108133000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">PLTV-Sunday Review</title>
+  </programme>
+  <programme start="20210108133000 -0600" stop="20210108140000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv- world En Vivo</title>
+  </programme>
+  <programme start="20210108140000 -0600" stop="20210108160000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Newcastle United vs. Leicester City</title>
+  </programme>
+  <programme start="20210108160000 -0600" stop="20210108180000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Everton vs. West Ham United Repetición</title>
+  </programme>
+  <programme start="20210108180000 -0600" stop="20210108200000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Manchester United vs. Manchester City</title>
+  </programme>
+  <programme start="20210108200000 -0600" stop="20210108203000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pl100</title>
+  </programme>
+  <programme start="20210108203000 -0600" stop="20210108223000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Southampton vs. Liverpool Repetición</title>
+  </programme>
+  <programme start="20210108223000 -0600" stop="20210109000000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Tottenham Hotspur vs. Brentford Repetición</title>
+  </programme>
+  <programme start="20210109000000 -0600" stop="20210109003000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Tottenham Hotspur vs. Brentford Repetición</title>
+  </programme>
+  <programme start="20210109003000 -0600" stop="20210109010000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pl100</title>
+  </programme>
+  <programme start="20210109010000 -0600" stop="20210109030000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Brighton vs. Wolverhampton W</title>
+  </programme>
+  <programme start="20210109050000 -0600" stop="20210109053000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - classic En Vivo</title>
+  </programme>
+  <programme start="20210109053000 -0600" stop="20210109063000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-greatest goals arsenal</title>
+  </programme>
+  <programme start="20210109070000 -0600" stop="20210109080000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">PLTV-Sunday Review</title>
+  </programme>
+  <programme start="20210109080000 -0600" stop="20210109083000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - classic En Vivo</title>
+  </programme>
+  <programme start="20210109083000 -0600" stop="20210109090000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv- world En Vivo</title>
+  </programme>
+  <programme start="20210109090000 -0600" stop="20210109100000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-1-to-11</title>
+  </programme>
+  <programme start="20210109100000 -0600" stop="20210109103000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-the big interview</title>
+  </programme>
+  <programme start="20210109103000 -0600" stop="20210109110000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - classic En Vivo</title>
+  </programme>
+  <programme start="20210109110000 -0600" stop="20210109113000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - match pack En Vivo</title>
+  </programme>
+  <programme start="20210109113000 -0600" stop="20210109123000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-greatest goals arsenal</title>
+  </programme>
+  <programme start="20210109123000 -0600" stop="20210109143000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">West Bromwich Albion vs. Arsenal Repetición</title>
+  </programme>
+  <programme start="20210109143000 -0600" stop="20210109163000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">PLTV-review of the season</title>
+  </programme>
+  <programme start="20210109163000 -0600" stop="20210109170000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - classic En Vivo</title>
+  </programme>
+  <programme start="20210109170000 -0600" stop="20210109180000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-PL greatest goals Manches</title>
+  </programme>
+  <programme start="20210109180000 -0600" stop="20210109200000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Tottenham Hotspur vs. Brentford Repetición</title>
+  </programme>
+  <programme start="20210109203000 -0600" stop="20210109223000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Manchester United vs. Aston V</title>
+  </programme>
+  <programme start="20210109223000 -0600" stop="20210110000000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Everton vs. West Ham United Repetición</title>
+  </programme>
+  <programme start="20210110000000 -0600" stop="20210110003000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Everton vs. West Ham United Repetición</title>
+  </programme>
+  <programme start="20210110003000 -0600" stop="20210110023000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Newcastle United vs. Leicester City</title>
+  </programme>
+  <programme start="20210110023000 -0600" stop="20210110050000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20210110050000 -0600" stop="20210110053000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pl100</title>
+  </programme>
+  <programme start="20210110053000 -0600" stop="20210110063000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-goals of the season</title>
+  </programme>
+  <programme start="20210110063000 -0600" stop="20210110070000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - match pack En Vivo</title>
+  </programme>
+  <programme start="20210110070000 -0600" stop="20210110073000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv- netbusters En Vivo</title>
+  </programme>
+  <programme start="20210110073000 -0600" stop="20210110080000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv- world En Vivo</title>
+  </programme>
+  <programme start="20210110080000 -0600" stop="20210110083000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-the big interview</title>
+  </programme>
+  <programme start="20210110083000 -0600" stop="20210110090000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - classic En Vivo</title>
+  </programme>
+  <programme start="20210110090000 -0600" stop="20210110100000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv-PL greatest goals Manches</title>
+  </programme>
+  <programme start="20210110100000 -0600" stop="20210110120000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Everton vs. West Ham United Repetición</title>
+  </programme>
+  <programme start="20210110120000 -0600" stop="20210110140000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pltv - classic En Vivo</title>
+  </programme>
+  <programme start="20210110140000 -0600" stop="20210110160000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Southampton vs. Liverpool Repetición</title>
+  </programme>
+  <programme start="20210110160000 -0600" stop="20210110180000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Tottenham Hotspur vs. Brentford Repetición</title>
+  </programme>
+  <programme start="20210110180000 -0600" stop="20210110183000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Pl100</title>
+  </programme>
+  <programme start="20210110183000 -0600" stop="20210110203000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">West Bromwich Albion vs. Arsenal Repetición</title>
+  </programme>
+  <programme start="20210110203000 -0600" stop="20210110223000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Manchester United vs. Manchester City</title>
+  </programme>
+  <programme start="20210110223000 -0600" stop="20210110230000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">PLTV-Soccerbox</title>
+  </programme>
+  <programme start="20210110230000 -0600" stop="20210111000000 -0600" channel="SP: Sky Sports Liga Española HD">
+    <title lang="es">Crystal Palace vs. Sheffield U</title>
+  </programme>
+  <programme start="20210107003000 -0600" stop="20210107010000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210107010000 -0600" stop="20210107030000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Valencia vs. Cádiz Repetición</title>
+  </programme>
+  <programme start="20210107030000 -0600" stop="20210107050000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Sky Sports 16</title>
+  </programme>
+  <programme start="20210107050000 -0600" stop="20210107070000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Getafe vs. Valladolid Repetición</title>
+  </programme>
+  <programme start="20210107070000 -0600" stop="20210107090000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Éibar vs. Granada Repetición</title>
+  </programme>
+  <programme start="20210107090000 -0600" stop="20210107093000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210107093000 -0600" stop="20210107113000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Valencia vs. Cádiz Repetición</title>
+  </programme>
+  <programme start="20210107113000 -0600" stop="20210107133000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Athletic de Bilbao vs. Elche</title>
+  </programme>
+  <programme start="20210107133000 -0600" stop="20210107140000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210107140000 -0600" stop="20210107160000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Real Madrid vs. Celta de Vigo</title>
+  </programme>
+  <programme start="20210107160000 -0600" stop="20210107180000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Real Sociedad vs. Osasuna Repetición</title>
+  </programme>
+  <programme start="20210107180000 -0600" stop="20210107200000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Betis vs. Sevilla Repetición</title>
+  </programme>
+  <programme start="20210107200000 -0600" stop="20210107203000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20210107203000 -0600" stop="20210107223000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Huesca vs. Barcelona Repetición</title>
+  </programme>
+  <programme start="20210107223000 -0600" stop="20210108000000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Athletic de Bilbao vs. Elche</title>
+  </programme>
+  <programme start="20210108000000 -0600" stop="20210108003000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Athletic de Bilbao vs. Elche</title>
+  </programme>
+  <programme start="20210108003000 -0600" stop="20210108023000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Getafe vs. Valladolid Repetición</title>
+  </programme>
+  <programme start="20210108023000 -0600" stop="20210108050000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Sky Sports 16</title>
+  </programme>
+  <programme start="20210108050000 -0600" stop="20210108070000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Valencia vs. Cádiz Repetición</title>
+  </programme>
+  <programme start="20210108070000 -0600" stop="20210108073000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210108073000 -0600" stop="20210108093000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Getafe vs. Valladolid Repetición</title>
+  </programme>
+  <programme start="20210108093000 -0600" stop="20210108113000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Éibar vs. Granada Repetición</title>
+  </programme>
+  <programme start="20210108113000 -0600" stop="20210108120000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210108120000 -0600" stop="20210108140000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Betis vs. Sevilla Repetición</title>
+  </programme>
+  <programme start="20210108140000 -0600" stop="20210108160000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Athletic de Bilbao vs. Barcelon</title>
+  </programme>
+  <programme start="20210108160000 -0600" stop="20210108180000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Valencia vs. Cádiz Repetición</title>
+  </programme>
+  <programme start="20210108180000 -0600" stop="20210108200000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Real Sociedad vs. Osasuna Repetición</title>
+  </programme>
+  <programme start="20210108200000 -0600" stop="20210108220000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Real Madrid vs. Celta de Vigo</title>
+  </programme>
+  <programme start="20210108220000 -0600" stop="20210109000000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Valencia vs. Cádiz Repetición</title>
+  </programme>
+  <programme start="20210109000000 -0600" stop="20210109003000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210109003000 -0600" stop="20210109023000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Betis vs. Sevilla Repetición</title>
+  </programme>
+  <programme start="20210109023000 -0600" stop="20210109044500 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Sky Sports 16</title>
+  </programme>
+  <programme start="20210109044500 -0600" stop="20210109064500 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Getafe vs. Valladolid Repetición</title>
+  </programme>
+  <programme start="20210109064500 -0600" stop="20210109084500 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Éibar vs. Granada Repetición</title>
+  </programme>
+  <programme start="20210109084500 -0600" stop="20210109104500 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Real Sociedad vs. Osasuna Repetición</title>
+  </programme>
+  <programme start="20210109104500 -0600" stop="20210109111500 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20210109111500 -0600" stop="20210109113000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20210109113000 -0600" stop="20210109133000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Granada vs. Barcelona En Vivo</title>
+  </programme>
+  <programme start="20210109133000 -0600" stop="20210109134500 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Sky Sports 16</title>
+  </programme>
+  <programme start="20210109134500 -0600" stop="20210109140000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20210109140000 -0600" stop="20210109160000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Osasuna Vs. Real Madrid En Vivo</title>
+  </programme>
+  <programme start="20210109160000 -0600" stop="20210109180000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Sevilla vs. Real Sociedad Repetición</title>
+  </programme>
+  <programme start="20210109180000 -0600" stop="20210109200000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Granada vs. Barcelona Repetición</title>
+  </programme>
+  <programme start="20210109200000 -0600" stop="20210109220000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Osasuna Vs. Real Madrid Repetición</title>
+  </programme>
+  <programme start="20210109220000 -0600" stop="20210110000000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Huesca vs. Barcelona Repetición</title>
+  </programme>
+  <programme start="20210110000000 -0600" stop="20210110020000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Sevilla vs. Real Sociedad Repetición</title>
+  </programme>
+  <programme start="20210110020000 -0600" stop="20210110023000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210110044500 -0600" stop="20210110064500 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Sevilla vs. Real Sociedad Repetición</title>
+  </programme>
+  <programme start="20210110064500 -0600" stop="20210110070000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20210110070000 -0600" stop="20210110090000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Levante vs. Éibar En Vivo</title>
+  </programme>
+  <programme start="20210110090000 -0600" stop="20210110091500 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Laliga love and laliga</title>
+  </programme>
+  <programme start="20210110091500 -0600" stop="20210110111500 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Granada vs. Barcelona Repetición</title>
+  </programme>
+  <programme start="20210110111500 -0600" stop="20210110113000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20210110113000 -0600" stop="20210110133000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Elche vs. Getafe En Vivo</title>
+  </programme>
+  <programme start="20210110133000 -0600" stop="20210110134500 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Sky Sports 16</title>
+  </programme>
+  <programme start="20210110134500 -0600" stop="20210110140000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20210110140000 -0600" stop="20210110160000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Valladolid vs. Valencia En Vivo</title>
+  </programme>
+  <programme start="20210110160000 -0600" stop="20210110180000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Osasuna Vs. Real Madrid Repetición</title>
+  </programme>
+  <programme start="20210110180000 -0600" stop="20210110200000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Sevilla vs. Real Sociedad Repetición</title>
+  </programme>
+  <programme start="20210110200000 -0600" stop="20210110210000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">La Liga</title>
+  </programme>
+  <programme start="20210110210000 -0600" stop="20210110230000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Granada vs. Barcelona Repetición</title>
+  </programme>
+  <programme start="20210110230000 -0600" stop="20210111000000 -0600" channel="SP: Sky Sports Latino HD">
+    <title lang="es">Valladolid vs. Valencia Repetición</title>
+  </programme>
+  <programme start="20210107020000 -0600" stop="20210107023000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210107023000 -0600" stop="20210107030000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210107030000 -0600" stop="20210107033000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210107033000 -0600" stop="20210107040000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210107040000 -0600" stop="20210107043000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210107043000 -0600" stop="20210107050000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210107050000 -0600" stop="20210107053000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210107053000 -0600" stop="20210107060000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210107060000 -0600" stop="20210107063000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Saint-Etienne vs. Paris Saint-Germain</title>
+  </programme>
+  <programme start="20210107063000 -0600" stop="20210107070000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Athletic Club vs. Barcelona</title>
+  </programme>
+  <programme start="20210107070000 -0600" stop="20210107073000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210107073000 -0600" stop="20210107093000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Real Madrid vs. Celta de Vigo</title>
+  </programme>
+  <programme start="20210107093000 -0600" stop="20210107100000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210107100000 -0600" stop="20210107120000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Fenerbahce SK vs. Alanyaspor</title>
+  </programme>
+  <programme start="20210107120000 -0600" stop="20210107140000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Athletic Club vs. Barcelona</title>
+  </programme>
+  <programme start="20210107140000 -0600" stop="20210107160000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Boca vs. Santos</title>
+  </programme>
+  <programme start="20210107160000 -0600" stop="20210107180000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Vélez vs. Lanús</title>
+  </programme>
+  <programme start="20210107180000 -0600" stop="20210107182000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210107182000 -0600" stop="20210107203000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Coquimbo Unido vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20210107203000 -0600" stop="20210107223000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Athletic Club vs. Barcelona</title>
+  </programme>
+  <programme start="20210107223000 -0600" stop="20210107230000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Boca vs. Santos</title>
+  </programme>
+  <programme start="20210107230000 -0600" stop="20210107233000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Copa Sudamericana: Vélez vs. Lanús</title>
+  </programme>
+  <programme start="20210107233000 -0600" stop="20210108000000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20210108000000 -0600" stop="20210108020000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Coquimbo Unido vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20210108060000 -0600" stop="20210108063000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210108063000 -0600" stop="20210108070000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Copa Sudamericana: Coquimbo vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20210108073000 -0600" stop="20210108093000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Saint-Etienne vs. Paris Saint-Germain</title>
+  </programme>
+  <programme start="20210108100000 -0600" stop="20210108115500 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Athletic Club vs. Barcelona</title>
+  </programme>
+  <programme start="20210108115500 -0600" stop="20210108135000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Betis vs. Sevilla</title>
+  </programme>
+  <programme start="20210108135000 -0600" stop="20210108160000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Celta vs. Villarreal</title>
+  </programme>
+  <programme start="20210108160000 -0600" stop="20210108163000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210108163000 -0600" stop="20210108183000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">River vs. Palmeiras</title>
+  </programme>
+  <programme start="20210108183000 -0600" stop="20210108190000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">River vs. Palmeiras</title>
+  </programme>
+  <programme start="20210108190000 -0600" stop="20210108193000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Boca vs. Santos</title>
+  </programme>
+  <programme start="20210108193000 -0600" stop="20210108200000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Copa Sudamericana: Vélez vs. Lanús</title>
+  </programme>
+  <programme start="20210108200000 -0600" stop="20210108210000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210108210000 -0600" stop="20210108230000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Saint-Etienne vs. Paris Saint-Germain</title>
+  </programme>
+  <programme start="20210108230000 -0600" stop="20210108233000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Ligue 1 Show</title>
+  </programme>
+  <programme start="20210108233000 -0600" stop="20210109000000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Atiker Konyaspor vs. Galatasaray</title>
+  </programme>
+  <programme start="20210109000000 -0600" stop="20210109020000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Celta vs. Villarreal</title>
+  </programme>
+  <programme start="20210109060000 -0600" stop="20210109063000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210109063000 -0600" stop="20210109070000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210109073000 -0600" stop="20210109080000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210109080000 -0600" stop="20210109090000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210109090000 -0600" stop="20210109090500 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210109090500 -0600" stop="20210109111500 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Atlético de Madrid vs. Athletic Club</title>
+  </programme>
+  <programme start="20210109111500 -0600" stop="20210109112000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210109112000 -0600" stop="20210109133000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Granada vs. Barcelona</title>
+  </programme>
+  <programme start="20210109133000 -0600" stop="20210109135000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210109135000 -0600" stop="20210109160000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Osasuna Vs. Real Madrid</title>
+  </programme>
+  <programme start="20210109160000 -0600" stop="20210109170000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210109170000 -0600" stop="20210109173000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210109173000 -0600" stop="20210109193000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Sevilla vs. Real Sociedad</title>
+  </programme>
+  <programme start="20210109193000 -0600" stop="20210109203000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210109203000 -0600" stop="20210109210000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210109210000 -0600" stop="20210109230000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Paris Saint-Germain vs. Stade Brestois</title>
+  </programme>
+  <programme start="20210109230000 -0600" stop="20210110010000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Atlético de Madrid vs. Athletic Club</title>
+  </programme>
+  <programme start="20210110010000 -0600" stop="20210110020000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210110020000 -0600" stop="20210110023000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210110023000 -0600" stop="20210110030000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210110030000 -0600" stop="20210110033000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210110033000 -0600" stop="20210110040000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210110040000 -0600" stop="20210110043000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210110043000 -0600" stop="20210110050000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210110050000 -0600" stop="20210110053000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210110053000 -0600" stop="20210110060000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210110060000 -0600" stop="20210110063000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210110063000 -0600" stop="20210110070000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210110070000 -0600" stop="20210110073000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210110073000 -0600" stop="20210110080000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Atlético de Madrid vs. Athletic Club</title>
+  </programme>
+  <programme start="20210110080000 -0600" stop="20210110083000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Granada vs. Barcelona</title>
+  </programme>
+  <programme start="20210110083000 -0600" stop="20210110090000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Osasuna Vs. Real Madrid</title>
+  </programme>
+  <programme start="20210110090500 -0600" stop="20210110111500 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Cádiz vs. Alavés</title>
+  </programme>
+  <programme start="20210110112000 -0600" stop="20210110133000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Elche vs. Getafe</title>
+  </programme>
+  <programme start="20210110135000 -0600" stop="20210110160000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Valladolid vs. Valencia</title>
+  </programme>
+  <programme start="20210110173000 -0600" stop="20210110193000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Levante vs. Éibar</title>
+  </programme>
+  <programme start="20210110210000 -0600" stop="20210110230000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Osasuna Vs. Real Madrid</title>
+  </programme>
+  <programme start="20210110230000 -0600" stop="20210111010000 -0600" channel="SP: BEIN Sports N HD">
+    <title lang="es">Granada vs. Barcelona</title>
+  </programme>
+  <programme start="20210107012000 -0600" stop="20210107015000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20210107015000 -0600" stop="20210107034000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Las Palmas-Espanyol</title>
+  </programme>
+  <programme start="20210107034000 -0600" stop="20210107051000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20210107051000 -0600" stop="20210107070000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Athletic-Barcelona</title>
+  </programme>
+  <programme start="20210107070000 -0600" stop="20210107073000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga News 1</title>
+  </programme>
+  <programme start="20210107073000 -0600" stop="20210107080000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20210107080000 -0600" stop="20210107083000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20210107083000 -0600" stop="20210107103000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Logroñés-Mirandés</title>
+  </programme>
+  <programme start="20210107103000 -0600" stop="20210107110000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20210107110000 -0600" stop="20210107113000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga News 2</title>
+  </programme>
+  <programme start="20210107113000 -0600" stop="20210107120000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20210107120000 -0600" stop="20210107123000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20210107123000 -0600" stop="20210107130000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20210107130000 -0600" stop="20210107133000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20210107133000 -0600" stop="20210107140000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20210107140000 -0600" stop="20210107160000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Rayo-Alcorcón</title>
+  </programme>
+  <programme start="20210107160000 -0600" stop="20210107175000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Athletic-Barcelona</title>
+  </programme>
+  <programme start="20210107175000 -0600" stop="20210107182000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20210107182000 -0600" stop="20210107195000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20210107195000 -0600" stop="20210107214000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Getafe-Valladolid</title>
+  </programme>
+  <programme start="20210107214000 -0600" stop="20210107233000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Huesca-Barcelona</title>
+  </programme>
+  <programme start="20210107233000 -0600" stop="20210108012000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Real Madrid-Celta</title>
+  </programme>
+  <programme start="20210108012000 -0600" stop="20210108015000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20210108015000 -0600" stop="20210108034000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Real Oviedo-Mallorca</title>
+  </programme>
+  <programme start="20210108034000 -0600" stop="20210108041000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga ZAP</title>
+  </programme>
+  <programme start="20210108041000 -0600" stop="20210108044000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20210108044000 -0600" stop="20210108051000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20210108051000 -0600" stop="20210108070000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Real Sociedad-Osasuna</title>
+  </programme>
+  <programme start="20210108070000 -0600" stop="20210108073000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga News 1</title>
+  </programme>
+  <programme start="20210108073000 -0600" stop="20210108080000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20210108080000 -0600" stop="20210108083000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20210108083000 -0600" stop="20210108103000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Albacete-Málaga</title>
+  </programme>
+  <programme start="20210108103000 -0600" stop="20210108110000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20210108110000 -0600" stop="20210108113000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga News 2</title>
+  </programme>
+  <programme start="20210108113000 -0600" stop="20210108120000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20210108120000 -0600" stop="20210108123000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20210108123000 -0600" stop="20210108130000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20210108130000 -0600" stop="20210108140000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+  <programme start="20210108140000 -0600" stop="20210108160000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Celta-Villarreal</title>
+  </programme>
+  <programme start="20210108160000 -0600" stop="20210108163000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20210108163000 -0600" stop="20210108170000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20210108170000 -0600" stop="20210108173000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20210108173000 -0600" stop="20210108174500 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Resúmenes LaLiga Santander</title>
+  </programme>
+  <programme start="20210108174500 -0600" stop="20210108175500 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Resúmenes LaLiga SmartBank</title>
+  </programme>
+  <programme start="20210108175500 -0600" stop="20210108194500 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Celta-Villarreal</title>
+  </programme>
+  <programme start="20210108194500 -0600" stop="20210108213500 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Zaragoza-Logroñés</title>
+  </programme>
+  <programme start="20210108213500 -0600" stop="20210108220000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga ZAP</title>
+  </programme>
+  <programme start="20210108220000 -0600" stop="20210108223000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20210108223000 -0600" stop="20210108230000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20210108230000 -0600" stop="20210108233000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20210108233000 -0600" stop="20210109002500 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Especiales LaLiga</title>
+  </programme>
+  <programme start="20210109233000 -0600" stop="20210110002500 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Especiales LaLiga</title>
+  </programme>
+  <programme start="20210110002500 -0600" stop="20210110005500 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Especiales LaLiga</title>
+  </programme>
+  <programme start="20210110005500 -0600" stop="20210110012000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga ZAP</title>
+  </programme>
+  <programme start="20210110012000 -0600" stop="20210110031000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Zaragoza-Logroñés</title>
+  </programme>
+  <programme start="20210110031000 -0600" stop="20210110050000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Celta-Villarreal</title>
+  </programme>
+  <programme start="20210110050000 -0600" stop="20210110053000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20210110053000 -0600" stop="20210110060000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20210110060000 -0600" stop="20210110070000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+  <programme start="20210110070000 -0600" stop="20210110090000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Sevilla-Real Sociedad</title>
+  </programme>
+  <programme start="20210110090000 -0600" stop="20210110091500 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+  <programme start="20210110091500 -0600" stop="20210110111500 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">At. Madrid-Athletic</title>
+  </programme>
+  <programme start="20210110111500 -0600" stop="20210110113000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+  <programme start="20210110113000 -0600" stop="20210110133000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Granada-Barcelona</title>
+  </programme>
+  <programme start="20210110133000 -0600" stop="20210110140000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+  <programme start="20210110140000 -0600" stop="20210110160000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Osasuna-Real Madrid</title>
+  </programme>
+  <programme start="20210110160000 -0600" stop="20210110174000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+  <programme start="20210110174000 -0600" stop="20210110175000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Resúmenes LaLiga SmartBank</title>
+  </programme>
+  <programme start="20210110175000 -0600" stop="20210110180000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Resúmenes LaLiga SmartBank</title>
+  </programme>
+  <programme start="20210110180000 -0600" stop="20210110181500 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Resúmenes LaLiga Santander</title>
+  </programme>
+  <programme start="20210110181500 -0600" stop="20210110200500 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Mirandés-Rayo</title>
+  </programme>
+  <programme start="20210110200500 -0600" stop="20210110220000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">Málaga-Real Oviedo</title>
+  </programme>
+  <programme start="20210110220000 -0600" stop="20210110233000 -0600" channel="SP: ES: M. LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+</tv>
